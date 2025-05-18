@@ -1,0 +1,15 @@
+.click1 {
+  background-color: black;
+  color: white;
+}
+
+.click2 {
+  background-color: rgb(255, 250, 100);
+}
+
+.click1,
+.click2 {
+  font-size: 28px;
+  font-family: 'Helvetica', 'Times New Roman', 'san-serif';
+  border: 1px solid rgb(46, 46, 46);
+}
